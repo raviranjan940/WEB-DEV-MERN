@@ -1,0 +1,49 @@
+
+.body{
+  text-align: center;
+}
+.red {
+  color: red;
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.blue{
+  color: blue;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.para {
+  font-size: 30px;
+  text-align: center;
+  font-weight: 900;
+}
+
+.box{
+  font-size: 30px;
+  background-color: aqua;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: brown;
+  text-align: center;
+}
+
+.btn{
+  background-color: blue;
+  color: white;
+  width: 5rem;
+  height: 2rem;
+  cursor: pointer;
+}
+
+.input{
+  width: 15rem;
+  height: 1.7rem;
+}
+
+div{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
